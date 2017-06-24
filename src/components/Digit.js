@@ -26,5 +26,5 @@ export default class Digit extends Component {
 }
 
 Digit.propTypes = {
-  value: propTypes.number.isRequired,
+  value: PropTypes.number.isRequired,
 };
